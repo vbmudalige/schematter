@@ -1,0 +1,25 @@
+{
+  "name": "schematter",
+  "version": "1.0.0",
+  "description": "JSON schema transformer",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidurab/schematter.git"
+  },
+  "keywords": [
+    "JSON",
+    "SCHEMA",
+    "FORMATTER",
+    "TRANSLATER"
+  ],
+  "author": "'Vidura <'vbmudalige@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vidurab/schematter/issues"
+  },
+  "homepage": "https://github.com/vidurab/schematter#readme"
+}
