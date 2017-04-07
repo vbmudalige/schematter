@@ -4,6 +4,7 @@
   "description": "JSON schema transformer",
   "main": "src/index.js",
   "scripts": {
+    "commit": "git-cz",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/vidurab/schematter/issues"
   },
-  "homepage": "https://github.com/vidurab/schematter#readme"
+  "homepage": "https://github.com/vidurab/schematter#readme",
+  "devDependencies": {
+    "commitizen": "2.9.6",
+    "cz-conventional-changelog": "2.0.0"
+  },
+  "czConfig": {
+    "path": "node_modules/cz-conventional-changelog"
+  }
 }
