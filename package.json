@@ -29,5 +29,9 @@
   },
   "czConfig": {
     "path": "node_modules/cz-conventional-changelog"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "velocityjs": "^0.9.6"
   }
 }
